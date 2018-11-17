@@ -1,0 +1,6 @@
+Ceci est le fichier texte qui résume la configuration du site:
+
+Type d'accès au site: public
+Nom de domaine: https://test.fr
+Port: 443
+Tye de site: statique
